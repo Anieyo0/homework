@@ -7,7 +7,7 @@ public class Fighter {
 
     public void attack(){  }
 
-    public void depend(){  }
+    public void defend(){  }
 
     public void escape(){  }
 
